@@ -1,0 +1,90 @@
+.header {
+    background-color: #333e48 !important;
+}
+
+.img1 {
+    background-image: url(images/CategoryImages/sub-banner-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+
+}
+
+.img2 {
+    background-image: url(images/CategoryImages/sub-banner-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+}
+
+.img3 {
+    background-image: url(images/CategoryImages/sub-banner-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+
+
+.img4 {
+    background-image: url(images/CategoryImages/cms-banner-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.img5 {
+    background-image: url(images/CategoryImages/cms-banner-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+
+.bannerImg {
+    background-image: url(images/offer-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 900px) {
+    .seachBar {
+        margin-top: 2px;
+        width: 100% !important;
+    }
+
+    .seachBar input {
+        width: 90% !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 750px) {
+    .CustomForm {
+        width: 100% !important;
+    }
+
+
+}
